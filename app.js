@@ -10,7 +10,7 @@ const xss = require('xss-clean')
 const rateLimiter = require('express-rate-limit')
 
 app.get('/', (req,res) => {
-  req.send('jobs api')
+  res.send('jobs api')
 })
 
 //connectDB
