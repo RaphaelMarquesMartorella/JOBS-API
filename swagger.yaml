@@ -7,7 +7,7 @@ servers:
 - url: https://jobs-api-0602.herokuapp.com/api/v1
   variables: {}
 paths:
-  /user/{id}:
+  /jobs/{id}:
     parameters:
       - in: path
         name: id
