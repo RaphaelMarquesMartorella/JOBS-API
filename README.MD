@@ -1,14 +1,6 @@
 #### Setup
 
 
-
-### Screenshot: 
-
-
-"C:\Users\Raphael Marques\OneDrive\Imagens\Capturas de tela\Screenshot (107).png"
-
-
-
 ```bash
 npm install && npm start
 ```
